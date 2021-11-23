@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+body ul {
+    padding: 0;
+    margin: 0;
+}
+
+#box {
+    width: 580px;
+    height: 340px;
+    background-color: aquamarine;
+    background: url('../images/1.jpg');
+}
